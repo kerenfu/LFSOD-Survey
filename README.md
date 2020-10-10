@@ -31,9 +31,8 @@
 | ---- | ----------- | ---- | -------- | ---- | :----------------: | :----------------: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
 | 1    | LFSD        | 2014 | CVPR     | 100  | 360x362           | -                  | 0.04 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    | :heavy_check_mark:    | [Link](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)     |
 | 1    | HFUT        | 2017 | ACM TOMM | 255  | 328x328            | 7x7                | 0.29 | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:   |      | :heavy_check_mark:   |      | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)    |
-| 1    | DUT-LF      | 2019 | ICCV     | 1462 | 600x400            | -                  | 0.05 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/ICCV2019 Deeplightfield Saliency)   |
-| 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 400x590            | 7x7                | 0.04 |      | :heavy_check_mark:    |      |      |:heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Sa
-liency-Detection-from-A-Single-View)     |
+| 1    | DUT-LF      | 2019 | ICCV     | 1462 | 600x400            | -                  | 0.05 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
+| 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 400x590            | 7x7                | 0.04 |      | :heavy_check_mark:    |      |      |:heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
 | 1    | Lytro Illum | 2020 | IEEE TIP | 640  | 540x375            | 9x9                | 0.15 |      |      |      | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:   | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 
 
