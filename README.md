@@ -2,6 +2,7 @@
 
 # Light Field SOD:
 ## LF Models
+
 | No.  | year | models | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2014 | LFS    | CVPR   | Saliency Detection on Light Field                            | Paper/Project |
@@ -23,14 +24,16 @@
 | 17   | 2020 | LFDC   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | Paper/Project |
 | 18   | 2015 | CS     | NEURO  | Light field saliency vs.2D saliency : A comparative study    | Paper/Project |
 | 19   | 2020 |RGBDS   | CVM    | RGB-D Salient Object Detection: A Survey                     | Paper/Project |
+
 ## LF Datasets
-| No.  | Dataset     | Year | Pub.     | Size | Description | Download |
-| ---- | ----------- | ---- | -------- | ---- | ----------- | -------- |
-| 1    | LFSD        | 2014 | CVPR     | 100  |             | Link     |
-| 1    | HFUT        | 2017 | ACM TOMM | 255  |             | Link     |
-| 1    | DUT-LF      | 2019 | ICCV     | 1462 |             | Link     |
-| 1    | DUT-MV      | 2019 | IJCAI    | 1580 |             | Link     |
-| 1    | Lytro Illum | 2020 | IEEE TIP | 640  |             | Link     |
+
+| No.  | Dataset     | Year | Pub.     | Size | Spatial resolution | Angualr resolution | MOP  | FS   | MV   | DE   | ML   | GT   | Raw  | Download |
+| ---- | ----------- | ---- | -------- | ---- | ------------------ | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
+| 1    | LFSD        | 2014 | CVPR     | 100  | 360x3620           | -                  | 0.04 | P    |      | P    |      | P    | P    | Link     |
+| 1    | HFUT        | 2017 | ACM TOMM | 255  | 328x328            | 7x7                | 0.29 | P    | P    | P    |      | P    |      | Link     |
+| 1    | DUT-LF      | 2019 | ICCV     | 1462 | 600x400            | -                  | 0.05 | P    |      | P    |      | P    |      | Link     |
+| 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 400x590            | 7x7                | 0.04 |      | P    |      |      | P    |      | Link     |
+| 1    | Lytro Illum | 2020 | IEEE TIP | 640  | 540x375            | 9x9                | 0.15 |      |      |      | P    | P    | P    | Link     |
 
 
 # Benchmarking results
