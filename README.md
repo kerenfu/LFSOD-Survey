@@ -22,6 +22,7 @@
 | 16   | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | Paper/Project |
 | 17   | 2020 | LFDC   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | Paper/Project |
 | 18   | 2015 | CS     | NEURO  | Light field saliency vs.2D saliency : A comparative study    | Paper/Project |
+| 19   | 2020 |RGBDS   | CVM    | RGB-D Salient Object Detection: A Survey                     | Paper/Project |
 ## LF Datasets
 | No.  | Dataset     | Year | Pub.     | Size | Description | Download |
 | ---- | ----------- | ---- | -------- | ---- | ----------- | -------- |
