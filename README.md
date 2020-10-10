@@ -37,9 +37,13 @@
 
 
 # Benchmarking results
+
 ##PR curves
+
 ![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/PR_curve.pdf)
+
 ##F-measure curves
+
 ![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/Fmeasure_curve.pdf)
 
 
