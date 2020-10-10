@@ -5,7 +5,7 @@
 
 | No.  | year | models | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
-| 1    | 2014 | LFS    | CVPR   | Saliency Detection on Light Field                            | Paper/Project |
+| 1    | 2014 | LFS    | CVPR   | Saliency Detection on Light Field                            | [Paper](https://ieeexplore.ieee.org/document/6909755?denied=)/Project |
 | 2    | 2015 | WSC    | CVPR   | A Weighted Sparse Coding Framework for Saliency Detection    | Paper/Project |
 | 3    | 2015 | DILF   | IJCAI  | Saliency Detection with a Deeper Investigation of Light Field | Paper/Project |
 | 4    | 2016 | RL     | ICASSP | Relative location for light field saliency detection         | Paper/Project |
@@ -28,8 +28,8 @@
 ## LF Datasets
 
 | No.  | Dataset     | Year | Pub.     | Size | Spatial resolution | Angualr resolution | MOP  | FS   | MV   | DE   | ML   | GT   | Raw  | Download |
-| ---- | ----------- | ---- | -------- | ---- | ------------------ | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
-| 1    | LFSD        | 2014 | CVPR     | 100  | 360x3620           | -                  | 0.04 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    | :heavy_check_mark:    | Link     |
+| ---- | ----------- | ---- | -------- | ---- | :----------------: | :----------------: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
+| 1    | LFSD        | 2014 | CVPR     | 100  | 360x362           | -                  | 0.04 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    | :heavy_check_mark:    | Link     |
 | 1    | HFUT        | 2017 | ACM TOMM | 255  | 328x328            | 7x7                | 0.29 | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:   |      | :heavy_check_mark:   |      | Link     |
 | 1    | DUT-LF      | 2019 | ICCV     | 1462 | 600x400            | -                  | 0.05 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    |      | Link     |
 | 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 400x590            | 7x7                | 0.04 |      | :heavy_check_mark:    |      |      |:heavy_check_mark:    |      | Link     |
