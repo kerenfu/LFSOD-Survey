@@ -40,10 +40,10 @@
 
 ##PR curves
 
-![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/PR_curve.pdf)
+![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/PR_curve.png)
 
 ##F-measure curves
 
-![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/Fmeasure_curve.pdf)
+![image](https://github.com/jiangyao-scu/LFSOD-Survey/blob/main/pictures/Fmeasure_curve.png)
 
 
