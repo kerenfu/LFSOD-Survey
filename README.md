@@ -1,5 +1,5 @@
-# Light Field Salient Object Detection: A Benchmark
-(This site is under construction...)
+# Light Field Salient Object Detection: A Review and Benchmark
+(This site is under construction. Updates will be kept...)
 # Light Field SOD:
 ## LF Models
 
