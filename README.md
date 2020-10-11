@@ -28,7 +28,7 @@
 ## LF Datasets
 
 | No.  | Dataset     | Year | Pub.     | Size | MOP  | FS   | MV   | DE   | ML   | GT   | Raw  | Download |
-| ---- | ----------- | ---- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
+| ---- | ----------- | ---- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
 | 1    | LFSD        | 2014 | CVPR     | 100  | 0.04 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    | :heavy_check_mark:    | [Link](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)     |
 | 1    | HFUT        | 2017 | ACM TOMM | 255  | 0.29 | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:   |      | :heavy_check_mark:   |      | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)    |
 | 1    | DUT-LF      | 2019 | ICCV     | 1462 | 0.05 | :heavy_check_mark:    |      | :heavy_check_mark:    |      | :heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
