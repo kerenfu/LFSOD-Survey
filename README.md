@@ -1,4 +1,4 @@
-# Light Filed Salient Object Detection: A Benchmark
+# Light Field Salient Object Detection: A Benchmark
 
 # Light Field SOD:
 ## LF Models
