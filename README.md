@@ -1,7 +1,7 @@
-# Light Field Salient Object Detection: A Review and Benchmark
-(This site is under construction. Updates will be kept...)
+# Light Field Salient Object Detection: A Benchmark
+(This site is under construction...)
 # Light Field SOD:
-## LF Models
+## Traditional LFSOD Models
 
 | No.  | year | models | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
@@ -16,16 +16,26 @@
 | 9    | 2018 | SGDC   | CVPR   | Salience Guided Depth Calibration for Perceptually Optimized  Compressive Light Field 3D Display | [Paper](https://ieeexplore.ieee.org/document/8578315/)/Project |
 | 10   | 2020 | RDFD   | MTAP   | Region-based depth feature descriptor for saliency detection  on light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project |
 | 11   | 2020 | DCA    | TIP    | Saliency Detection via Depth-Induced Cellular Automata on  Light Field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project |
-| 12   | 2019 | DLLF   | ICCV   | Deep Learning for Light Field Saliency Detection             | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Project](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency) |
-| 13   | 2019 | DLSD   | IJCAI  | Deep Light-field-driven Saliency Detection from a Single View | [Paper](https://www.ijcai.org/Proceedings/2019/0127.pdf)/Project |
-| 14   | 2019 | MoLF   | NIPS   | Memory-oriented Decoder for Light Field Salient Object  Detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Project](https://github.com/OIPLab-DUT/MoLF) |
-| 15   | 2020 | ERNet  | AAAI   | Exploit and Replace: An Asymmetrical Two-Stream Architecture  for Versatile Light Field Saliency Detection | [Paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)/[Project](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency) |
-| 16   | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/Project |
-| 17   | 2020 | LFDCN   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
-| 18   | 2015 | CS     | NEURO  | Light field saliency vs.2D saliency : A comparative study    | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003410?via%3Dihub)/Project |
-| 19   | 2020 |RGBDS   | CVM    | RGB-D Salient Object Detection: A Survey                     | [Paper](https://arxiv.org/pdf/2008.00230.pdf)/[Project](https://github.com/taozh2017/RGBD-SODsurvey) |
 
-## LF Datasets
+
+
+## Deep Learning Based LFSOD Models
+| No.  | year | models | pub.   | Title                                                        | Links         |
+| ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
+| 1    | 2019 | DLLF   | ICCV   | Deep Learning for Light Field Saliency Detection             | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Project](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency) |
+| 2    | 2019 | DLSD   | IJCAI  | Deep Light-field-driven Saliency Detection from a Single View | [Paper](https://www.ijcai.org/Proceedings/2019/0127.pdf)/Project |
+| 3    | 2019 | MoLF   | NIPS   | Memory-oriented Decoder for Light Field Salient Object  Detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Project](https://github.com/OIPLab-DUT/MoLF) |
+| 4    | 2020 | ERNet  | AAAI   | Exploit and Replace: An Asymmetrical Two-Stream Architecture  for Versatile Light Field Saliency Detection | [Paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)/[Project](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency) |
+| 5    | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/Project |
+| 6    | 2020 | LFDCN   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
+
+## Related Reviews and Surveys to LFSOD:
+| No.  | year | models | pub.   | Title                                                        | Links         |
+| ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
+| 1    | 2015 | CS     | NEURO  | Light field saliency vs.2D saliency : A comparative study    | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003410?via%3Dihub)/Project |
+| 2    | 2020 |RGBDS   | CVM    | RGB-D Salient Object Detection: A Survey                     | [Paper](https://arxiv.org/pdf/2008.00230.pdf)/[Project](https://github.com/taozh2017/RGBD-SODsurvey) |
+
+# LFSOD Datasets
 
 | No.  | Dataset     | Year | Pub.     | Size | MOP  | FS   | MV   | DE   | ML   | GT   | Raw  | Download |
 | ---- | ----------- | ---- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- |
@@ -35,8 +45,40 @@
 | 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 0.04 |      | :heavy_check_mark:    |      |      |:heavy_check_mark:    |      | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
 | 1    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |      |      |      | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:   | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 
+You can also download above dataset as well as generated data from [here](https://pan.baidu.com/s/1-yRAo-wx6TF3SvHqxVBMIw)(pass:tz98)
 
 # Benchmarking results
+## Table
+
+
+|      | LFS   | WSC   | DILF  | DLSD  | MoLF  | ERNet | LFDCN | BBS   | JLDCF | SSF   | UCNet | D3Net | S2MA  | cmMS  | HDFNet | ATSA  |
+| ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | ----- |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+| F    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789  | 0.789 |
+
+| LFS    | F     | F     | F     | F     | F     | F     | F     | F     |
+| ------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| WSC    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| DILF   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| DLSD   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| MoLF   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| ERNet  | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| LFDCN  | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| BBS    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| JLDCF  | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| SSF    | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| UCNet  | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| D3Net  | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| S2MA   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| cmMS   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| HDFNet | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
+| ATSA   | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 | 0.789 |
 
 ## PR curves
 
