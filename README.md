@@ -3,6 +3,8 @@
 # Light Field SOD:
 ## Traditional LFSOD Models
 
+
+
 | No.  | year | models | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2014 | LFS    | CVPR   | Saliency Detection on Light Field                            | [Paper](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/) |
@@ -20,6 +22,10 @@
 
 
 ## Deep Learning Based LFSOD Models
+
+![networks](https://github.com/kerenfu/LFSOD-Survey/tree/main/pictures/networks.png)
+Pig. 1 Frameworks of deep light field SOD models. (a) Late-fusion ([DLLF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)). (b) Middle-fusion ([MoLF](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf), [LFNet](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)). (c) Knowledge distillation-based ([ERNet](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)). (d) Reconstruction-based ([DLSD](https://www.ijcai.org/Proceedings/2019/0127.pdf)). (e) Single-stream ([LFDCN](https://arxiv.org/pdf/1906.08331.pdf)). Note (a)-(c) utilize the focal stack and all-focus image, whereas (d)-(e) utilize the center-view image and micro-lens image array.}
+
 | No.  | year | models | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2019 | DLLF   | ICCV   | Deep Learning for Light Field Saliency Detection             | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Project](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency) |
