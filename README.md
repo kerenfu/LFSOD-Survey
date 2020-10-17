@@ -1,8 +1,8 @@
-# Light Field Salient Object Detection: A Benchmark
-(This site is under construction...)
-# Light Field SOD:
-## Traditional LFSOD Models
+# Light Field Salient Object Detection: A Review and Benchmark
+(This project site is under construction...)
 
+# Light Field SOD
+## Traditional Models
 ### Table
 Table I: Overview of traditional LFSOD models
 
@@ -20,9 +20,7 @@ Table I: Overview of traditional LFSOD models
 | 10   | 2020 | RDFD   | MTAP   | Region-based depth feature descriptor for saliency detection  on light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project |
 | 11   | 2020 | DCA    | TIP    | Saliency Detection via Depth-Induced Cellular Automata on  Light Field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project |
 
-
-
-## Deep Learning Based LFSOD Models
+## Deep Learning-based Models
 
 ### Picture
 
@@ -44,7 +42,7 @@ Table II: Overview of deep learning based LFSOD models
 | 5    | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/Project |
 | 6    | 2020 | LFDCN   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 
-## Related Reviews and Surveys to LFSOD:
+## Other Review Works
 ### Table
 Table III: Overview of related reviews and surveys to LFSOD
 
