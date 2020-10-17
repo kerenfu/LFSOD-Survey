@@ -62,7 +62,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 
 
 
-# Benchmarking results
+# Benchmarking Results
 ![alt text](./pictures/PR_curve.png)
 
 
