@@ -3,7 +3,6 @@
 
 # Light Field SOD
 ## Traditional Models
-### Table
 Table I: Overview of traditional LFSOD models
 
 | No.  | year | models | pub.   | Title                                                        | Links         |
@@ -22,15 +21,11 @@ Table I: Overview of traditional LFSOD models
 
 ## Deep Learning-based Models
 
-### Picture
-
-<img src="https://github.com/kerenfu/LFSOD-Survey/tree/main/pictures/networks.png" width="200" height="100" alt="Frameworks"/><br/>
-
+![alt text](./pictures/networks.png)
 
 Fig. 1 Frameworks of deep light field SOD models. (a) Late-fusion ([DLLF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)). (b) Middle-fusion ([MoLF](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf), [LFNet](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)). (c) Knowledge distillation-based ([ERNet](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)). (d) Reconstruction-based ([DLSD](https://www.ijcai.org/Proceedings/2019/0127.pdf)). (e) Single-stream ([LFDCN](https://arxiv.org/pdf/1906.08331.pdf)). Note (a)-(c) utilize the focal stack and all-focus image, whereas (d)-(e) utilize the center-view image and micro-lens image array.}
 
 
-### Table
 Table II: Overview of deep learning based LFSOD models
 
 | No.  | year | models | pub.   | Title                                                        | Links         |
@@ -43,7 +38,7 @@ Table II: Overview of deep learning based LFSOD models
 | 6    | 2020 | LFDCN   | TIP    | Light Field Saliency Detection with Deep Convolutional  Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 
 ## Other Review Works
-### Table
+
 Table III: Overview of related reviews and surveys to LFSOD
 
 | No.  | year | models | pub.   | Title                                                        | Links         |
@@ -68,7 +63,7 @@ Overview of light field SOD datasets. About the abbreviations: MOP=Multiple-Obje
 
 
 # Benchmarking results
-## Table
+![alt text](./pictures/PR_curve.png)
 
 
 # Citation
