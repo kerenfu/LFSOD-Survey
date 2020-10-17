@@ -73,6 +73,14 @@ Overview of light field SOD datasets. About the abbreviations: MOP=Multiple-Obje
 ## Table
 
 
+# Citation
+Please cite our paper if you find the work useful: 
 
+	@article{jiang2020light,
+  	title={Light Field Salient Object Detection: A Review and Benchmark},
+  	author={Jiang, Yao and Zhou, Tao and Ji, Ge-Peng and Fu, Keren and Zhao, Qijun and Fan, Deng-Ping},
+  	journal={arXiv preprint arXiv:2010.04968},
+  	year={2020}
+	}
 
 
