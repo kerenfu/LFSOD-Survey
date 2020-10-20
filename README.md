@@ -24,7 +24,7 @@ Table I: Overview of traditional LFSOD models
 ![alt text](./pictures/network.png)
 
 Fig. 1 Frameworks of deep light field SOD models. (a) Late-fusion ([DLLF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf), [MTCNet](https://ieeexplore.ieee.org/abstract/document/9153018)). (b) Middle-fusion ([MoLF](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf), [LFNet](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)). (c) Knowledge distillation-based ([ERNet](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)). (d) Reconstruction-based ([DLSD](https://www.ijcai.org/Proceedings/2019/0127.pdf)). (e) Single-stream ([MAC](https://arxiv.org/pdf/1906.08331.pdf)). Note that (a) utilizes the focal stack/multi-view images and all-in-focus/center view image, while (b)-(c) utilize the
-focal stack and all-in-focus image. (d)-(e) utilize the center-view image and micro-lens image array.}
+focal stack and all-in-focus image. (d)-(e) utilize the center-view image and micro-lens image array.
 
 
 Table II: Overview of deep learning-based LFSOD models
