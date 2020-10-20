@@ -78,7 +78,7 @@ Fig. 2 PR curves on four datasets ((a) LFSD, (b) HFUT, (c) Lytro Illum, and (d) 
 ![alt test](./pictures/visual_comparison_on_big_objects.png)
 
 Fig. 3 Visual comparison of five light field SOD (i.e., [LFS](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf), [DILF](https://www.ijcai.org/Proceedings/15/Papers/313.pdf), [DLSD](https://www.ijcai.org/Proceedings/2019/0127.pdf), [MoLF](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf), [ERNet](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860)) and
-three SOTA RGB-D based SOD models (i.e., [JLDCF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf), [BBS](https://arxiv.org/pdf/2007.02713.pdf), and [BBS](https://arxiv.org/pdf/2007.02713.pdf)). The first two rows in this figure show easy cases while the third to fifth rows show cases with complex backgrounds or sophisticated boundaries. The last row gives an example with low color contrast between foreground and background.
+three SOTA RGB-D based SOD models (i.e., [JLDCF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf), [BBS](https://arxiv.org/pdf/2007.02713.pdf), and [BBS](https://arxiv.org/pdf/2007.02713.pdf)). `The first two rows in this figure show easy cases while the third to fifth rows show cases with complex backgrounds or sophisticated boundaries. The last row gives an example with low color contrast between foreground and background.`
 
 ![alt test](./pictures/visual_comparison_on_small_and_multiple_objects.png)
 
