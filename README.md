@@ -3,8 +3,6 @@
 
 # Light field
 
-## Light field Cameras
-
 ## Multi-view images and focal stacks
 
 * A GIF animation to multi-view images
