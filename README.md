@@ -60,6 +60,13 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | 1    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Coming soon]() | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 
 # Benchmarking Results
+
+## Quantitative Comparison
+
+Quantitative measures: S-measure, max F-measure, mean F-measure, adaptive F-measure, max E-measure, mean E-measure, adaptive E-measure, and MAE of seven light field SOD models (i.e., LFS, WSC, DILF, DLSD, MoLF, ERNet, MAC) and nine SOTA RGB-D based SOD models (i.e., BBS, JLDCF, SSF, UCNet, D3Net, S2MA, cmMS, HDFNet, and ATSA). Note in the table, light field SOD models are marked by “y”. Symbol “N/T” indicates that a model was trained on quite some images from the corresponding dataset, and, thus, it is not tested. The top three models among light field and RGB-D based SOD models are highlighted in red, blue and green, separately. "/# denotes that a larger/smaller value is better.
+![alt_text](./pictures/Quantitative_measures.png)
+
+
 ![alt text](./pictures/PR_curve.png)
 
 # Citation
