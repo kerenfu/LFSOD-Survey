@@ -1,6 +1,20 @@
 # Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)]
 (THIS PROJECT SITE IS UNDER CONSTRUCTION...)
 
+# Light field
+
+## Light field Cameras
+
+## Multi-view images and focal stacks
+
+* A GIF animation to multi-view images
+
+![alt text](./pictures/multi-view.gif)
+
+* A GIF animation to focal stack
+
+![alt text](./pictures/focal_stack.gif)
+
 # Light Field SOD
 ## Traditional Models
 Table I: Overview of traditional LFSOD models
