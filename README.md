@@ -11,7 +11,7 @@
   i. [Traditional Models](#traditional-models)<br>
   ii. [Deep Learning-based Models](#deep-learning\-based-models)<br>
   iii. [Other Review Works](#other-review-works)<br>
-3. [Light Field FSOD Datasets](#light-field-sod-datasets)<br>
+3. [Light Field SOD Datasets](#light-field-sod-datasets)<br>
 4. [Benchmarking Results](#benchmarking-results)<br>
   i. [Appendix&#58; RGB-D SOD Models in Our Tests](#appendix)<br>
   ii. [Quantitative Comparison](#quantitative-comparison)<br>
