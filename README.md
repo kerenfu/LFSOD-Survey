@@ -67,10 +67,10 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | No.  | Dataset     | Year | Pub.     | Size | MOP  | FS   | MV   | DE   | ML   | GT   | Raw  | Download | Original Link |
 | ---- | ----------- | ---- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | -------- | ------------- |
 | 1    | LFSD        | 2014 | CVPR     | 100  | 0.04 | ✓    | ✔️  |   ✓  | ✔️   |   ✓  |  ✓  | [Coming soon]() | [Link](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/)    |
-| 1    | HFUT        | 2017 | ACM TOMM | 255  | 0.29 | ✓ | ✓ | ✓ |    ✔️  |✓  |      | [Coming soon]() | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)    |
-| 1    | DUT-LF      | 2019 | ICCV     | 1462 | 0.05 |✓  |      |✓  |      |✓  |      | [Coming soon]() | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
-| 1    | DUT-MV      | 2019 | IJCAI    | 1580 | 0.04 |      |✓  |      |      |✓  |      | [Coming soon]() | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
-| 1    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Coming soon]() | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
+| 2    | HFUT        | 2017 | ACM TOMM | 255  | 0.29 | ✓ | ✓ | ✓ |    ✔️  |✓  |      | [Coming soon]() | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)    |
+| 3    | DUT-LF      | 2019 | ICCV     | 1462 | 0.05 |✓  |      |✓  |      |✓  |      | [Coming soon]() | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
+| 4    | DUT-MV      | 2019 | IJCAI    | 1580 | 0.04 |      |✓  |      |      |✓  |      | [Coming soon]() | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
+| 5    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Coming soon]() | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 
 # Benchmarking Results
 
