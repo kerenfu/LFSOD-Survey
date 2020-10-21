@@ -78,7 +78,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 
 Table V: Overview of RGB-D SOD models in our tests.
 
-| No.  | year | models | pub.       | Title                                                        | Links                                                        |
+| No.  | Year | Model | Pub.       | Title                                                        | Links                                                        |
 | ---- | ---- | ------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | 2020 | BBS    | ECCV       | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](https://arxiv.org/pdf/2007.02713.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net) |
 | 2    | 2020 | JLDCF  | CVPR       | JL-DCF: Joint learning and densely-cooperative fusion framework for RGB-D salient object detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)/[Project](https://github.com/kerenfu/JLDCF) |
