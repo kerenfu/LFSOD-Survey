@@ -5,19 +5,19 @@
 
 ## Multi-view Images and Focal Stacks
 
-* A GIF animation of multi-view images
+* A GIF animation of multi-view images in Lytro Illum.
 
 ![alt text](./pictures/multi-view.gif)
 
-* A GIF animation of a focal stack
+* A GIF animation of a focal stack in Lytro Illum.
 
 ![alt text](./pictures/focal_stack.gif)
 
 # Light Field SOD
 ## Traditional Models
-Table I: Overview of traditional LFSOD models
+Table I: Overview of traditional LFSOD models.
 
-| No.  | year | models | pub.   | Title                                                        | Links         |
+| No.  | Year | Model | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2014 | LFS    | CVPR   | Saliency Detection on Light Field                            | [Paper](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf)/[Project](https://sites.duke.edu/nianyi/publication/saliency-detection-on-light-field/) |
 | 2    | 2015 | WSC    | CVPR   | A Weighted Sparse Coding Framework for Saliency Detection    | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf)/[Project](https://www.researchgate.net/publication/294874666_Code_WSC) |
@@ -39,9 +39,9 @@ Fig. 1 Frameworks of deep light field SOD models. (a) Late-fusion ([DLLF](https:
 focal stack and all-in-focus image. (d)-(e) utilize the center-view image and micro-lens image array.
 
 
-Table II: Overview of deep learning-based LFSOD models
+Table II: Overview of deep learning-based LFSOD models.
 
-| No.  | year | models | pub.   | Title                                                        | Links         |
+| No.  | Year | Model  | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2019 | DLLF   | ICCV   | Deep Learning for Light Field Saliency Detection             | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Project](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency) |
 | 2    | 2019 | DLSD   | IJCAI  | Deep Light-field-driven Saliency Detection from a Single View | [Paper](https://www.ijcai.org/Proceedings/2019/0127.pdf)/Project |
@@ -53,9 +53,9 @@ Table II: Overview of deep learning-based LFSOD models
 
 ## Other Review Works
 
-Table III: Overview of related reviews and surveys to LFSOD
+Table III: Overview of related reviews and surveys to LFSOD.
 
-| No.  | year | models | pub.   | Title                                                        | Links         |
+| No.  | Year | Model  | pub.   | Title                                                        | Links         |
 | ---- | ---- | ------ | ------ | ------------------------------------------------------------ | ------------- |
 | 1    | 2015 | CS     | NEURO  | Light field saliency vs.2D saliency : A comparative study    | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215003410?via%3Dihub)/Project |
 | 2    | 2020 |RGBDS   | CVM    | RGB-D Salient Object Detection: A Survey                     | [Paper](https://arxiv.org/pdf/2008.00230.pdf)/[Project](https://github.com/taozh2017/RGBD-SODsurvey) |
