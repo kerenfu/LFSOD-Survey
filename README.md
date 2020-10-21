@@ -88,7 +88,7 @@ Table V: Overview of RGB-D SOD models in our tests.
 | 6    | 2020 | S2MA   | CVPR       | Learning selective self-mutual attention for RGB-D saliency detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Project](https://github.com/nnizhang/S2MA) |
 | 7    | 2020 | cmMS   | ECCV       | RGB-D salient object detection with cross-modality modulation and selection | [Paper](https://arxiv.org/pdf/2007.07051.pdf)/[Project](https://github.com/Li-Chongyi/cmMS-ECCV20) |
 | 8    | 2020 | HDFNet | ECCV       | Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.06227.pdf)/[Project](https://github.com/lartpang/HDFNet) |
-| 9    | 2020 | ATSA   | CVPR       | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730375.pdf)/[Project](https://github.com/sxfduter/ATSA) |
+| 9    | 2020 | ATSA   | ECCV       | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730375.pdf)/[Project](https://github.com/sxfduter/ATSA) |
 
 ## Quantitative Comparison
 
