@@ -1,22 +1,22 @@
-# Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)]
+ Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)]
 ===============================================================================================================
 
 (THIS PROJECT SITE IS UNDER CONSTRUCTION...)
 
 # Content:
 
-- [Light Field](#light-field)
-  - [Multi-view Images and Focal Stacks](#multi\-view-images-and-focal-stacks)
-- [Light Field SOD](#light-field-sod)
-  - [Traditional Models](#traditional-models)
-  - [Deep Learning-based Models](#deep-learning\-based-models)
-  - [Other Review Works](#other-review-works)
-- [LFSOD Datasets](#lfsod-datasets)
-- [Benchmarking Results](#benchmarking-results)
-  - [Appendix&#58; RGB-D Models in Our Tests](#appendix)
-  - [Quantitative Comparison](#quantitative-comparison)
-  - [Qualitative Comparison](#qualitative-comparison)
-- [Citation](#citation)
+1. [Light Field](#light-field)<br>
+  i. [Multi-view Images and Focal Stacks](#multi\-view-images-and-focal-stacks)<br>
+2. [Light Field SOD](#light-field-sod)<br>
+  i. [Traditional Models](#traditional-models)<br>
+  ii. [Deep Learning-based Models](#deep-learning\-based-models)<br>
+  iii. [Other Review Works](#other-review-works)<br>
+3. [LFSOD Datasets](#lfsod-datasets)<br>
+4. [Benchmarking Results](#benchmarking-results)<br>
+  i. [Appendix&#58; RGB-D Models in Our Tests](#appendix)<br>
+  ii. [Quantitative Comparison](#quantitative-comparison)<br>
+  iii. [Qualitative Comparison](#qualitative-comparison)<br>
+5. [Citation](#citation)<br>
 
 # Light Field
 
