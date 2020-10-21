@@ -5,11 +5,11 @@
 
 ## Multi-view Images and Focal Stacks
 
-* A GIF animation to multi-view images
+* A GIF animation of multi-view images
 
 ![alt text](./pictures/multi-view.gif)
 
-* A GIF animation to focal stack
+* A GIF animation of a focal stack
 
 ![alt text](./pictures/focal_stack.gif)
 
