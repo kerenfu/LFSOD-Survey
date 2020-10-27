@@ -13,7 +13,7 @@
   iii. [Other Review Works](#other-review-works)<br>
 3. [Light Field SOD Datasets](#light-field-sod-datasets)<br>
 4. [Benchmarking Results](#benchmarking-results)<br>
-  i. [Appendix&#58; RGB-D SOD Models in Our Tests](#appendix)<br>
+  i. [RGB-D SOD Models in Our Tests](#appendix)<br>
   ii. [Quantitative Comparison](#quantitative-comparison)<br>
   iii. [Qualitative Comparison](#qualitative-comparison)<br>
 5. [Citation](#citation)<br>
@@ -92,7 +92,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 
 # Benchmarking Results
 
-## <span id = "appendix">Appendix: RGB-D SOD Models in Our Tests</span>
+## <span id = "appendix">RGB-D SOD Models in Our Tests</span>
 
 Table V: Overview of RGB-D SOD models in our tests.
 
