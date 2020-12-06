@@ -3,7 +3,7 @@
 
 # NEWS
 
-* [2020/12/6] Release light field datasets.
+* [2020/12/6] Release the light field datasets.
 
 # Content:
 
