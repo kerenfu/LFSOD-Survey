@@ -1,11 +1,11 @@
  Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)]
 ===============================================================================================================
 
-# NEWS
+# NEWS!
 
 * [2020/12/6] Release the light field datasets.
 
-# Content:
+# Contents:
 
 1. [Light Field](#light-field)<br>
   i. [Multi-view Images and Focal Stacks](#multi\-view-images-and-focal-stacks)<br>
