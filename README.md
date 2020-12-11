@@ -1,7 +1,7 @@
  Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)]
 ===============================================================================================================
 
-# :fire:News!:fire:
+# :fire:News!
 
 * [2020/12/6] Release the light field datasets.
 
