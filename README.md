@@ -3,7 +3,7 @@
 
 # :fire:News!
 
-* [2020/12/6] Release the light field datasets [jump](#light-field-sod-datasets).
+* [2020/12/6] Release the light field datasets. [[jump](#light-field-sod-datasets)]
 
 # Contents:
 
