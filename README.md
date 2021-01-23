@@ -3,9 +3,9 @@
 
 # :fire:News!
 
-* [2020/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#Saliency-Maps)]
-* [2020/1/21] Add more description notes for the evaluation table.
 * [2020/12/6] Release the light field datasets. [[Jump](#light-field-sod-datasets)]
+* [2021/1/21] Add more description notes for the evaluation table.
+* [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#Saliency-Maps)]
 
 # Contents:
 
