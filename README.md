@@ -5,7 +5,6 @@
 
 * [2020/1/23] Release the models' saliency maps in our comparative table. [[Jump](#Saliency-Maps)]
 * [2020/12/6] Release the light field datasets. [[Jump](#light-field-sod-datasets)]
-* We will release the models' saliency maps in our comparative table in the future... [[Jump](#quantitative-comparison)]
 
 # Contents:
 
