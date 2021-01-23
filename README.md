@@ -20,7 +20,7 @@
   i. [RGB-D SOD Models in Our Tests](#appendix)<br>
   ii. [Quantitative Comparison](#quantitative-comparison)<br>
   iii. [Saliency Maps](#Saliency-Maps)<br>
-  iii. [Qualitative Comparison](#qualitative-comparison)<br>
+  iv. [Qualitative Comparison](#qualitative-comparison)<br>
 5. [Citation](#citation)<br>
 
 # Light Field
