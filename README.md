@@ -3,6 +3,7 @@
 
 # :fire:News!
 
+* [2020/1/23] Release the models' saliency maps in our comparative table. [[Jump](#Saliency maps in our comparative table)]
 * [2020/12/6] Release the light field datasets. [[Jump](#light-field-sod-datasets)]
 * We will release the models' saliency maps in our comparative table in the future... [[Jump](#quantitative-comparison)]
 
@@ -125,6 +126,10 @@ Table VI: Quantitative measures: S-measure (*S<sub>&alpha;</sub>*), max F-measur
 ![alt text](./pictures/PR_curve.png)
 
 Fig. 2 PR curves on four datasets ((a) LFSD, (b) HFUT, (c) Lytro Illum, and (d) DUT-LF) for seven light field SOD models (i.e., [LFS](https://sites.duke.edu/nianyi/files/2020/06/Li_Saliency_Detection_on_2014_CVPR_paper.pdf), [WSC](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf), [DILF](https://www.ijcai.org/Proceedings/15/Papers/313.pdf), [DLSD](https://www.ijcai.org/Proceedings/2019/0127.pdf), [MoLF](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf), [ERNet](https://www.aiide.org/ojs/index.php/AAAI/article/view/6860), [MAC](https://arxiv.org/pdf/1906.08331.pdf)) and nine SOTA RGB-D based SOD models (i.e., [BBS](https://arxiv.org/pdf/2007.02713.pdf), [JLDCF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf), [SSF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf), [UCNet](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf), [D3Net](https://arxiv.org/pdf/1907.06781.pdf), [S2MA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf), [cmMS](https://arxiv.org/pdf/2007.07051.pdf), [HDFNet](https://arxiv.org/pdf/2007.06227.pdf), and [ATSA](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730375.pdf)). `Note that in this figure, the solid lines and dashed lines represent the PR curves of RGB-D based SOD models and light field SOD models, respectively. `
+
+## Saliency maps in our comparative table
+
+The models' saliency maps in our comparative table is publicly available in [Link](https://pan.baidu.com/s/1sj79KoD5vgqVjkuGb4PQAg) (code: lfso).
 
 ## Qualitative Comparison
 
