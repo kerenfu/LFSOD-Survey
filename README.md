@@ -5,7 +5,7 @@
 
 * [2020/12/6] Release the light field datasets. [[Jump](#light-field-sod-datasets)]
 * [2021/1/21] Add more description notes for the evaluation table.
-* [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#All Models' Saliency Maps)]
+* [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#All-Models'-Saliency-Maps)]
 
 # Contents:
 
@@ -19,7 +19,7 @@
 4. [Benchmarking Results](#benchmarking-results)<br>
   i. [RGB-D SOD Models in Our Tests](#appendix)<br>
   ii. [Quantitative Comparison](#quantitative-comparison)<br>
-  iii. [All Models' Saliency Maps](#All Models' Saliency Maps)<br>
+  iii. [All Models' Saliency Maps](#All-Models'-Saliency-Maps)<br>
   iv. [Qualitative Comparison](#qualitative-comparison)<br>
 5. [Citation](#citation)<br>
 
