@@ -6,6 +6,7 @@
 * [2020/12/6] Release the light field datasets. [[Jump](#light-field-sod-datasets)]
 * [2021/1/21] Add more description notes for the evaluation table.
 * [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#saliency-download)]
+* [2021/3/6] Add a new light field dataset [[Jump](#light-field-sod-datasets)] as well as a light field salient object detection work [[Jump](#deep-learning\-based-models)].
 
 # Contents:
 
@@ -73,6 +74,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | 5    | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/Project |
 | 6    | 2020 | MAC   | TIP    | Light Field Saliency Detection with Deep Convolutional Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 | 7    | 2020 | MTCNet   | TCSVT    | A Multi-Task Collaborative Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9153018)/Project |
+| :fire: 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
 
 ## Other Review Works
 
@@ -94,6 +96,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | 3    | DUT-LF      | 2019 | ICCV     | 1462 | 0.05 |✓  |      |✓  |      |✓  |      | [Link](https://pan.baidu.com/s/1J-LXu9iM1BH0SVeyUXogIw) | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
 | 4    | DUT-MV      | 2019 | IJCAI    | 1580 | 0.04 |      |✓  |      |      |✓  |      | [Link](https://pan.baidu.com/s/1GPsKVYgKsfjt4EG5pI0H1A) | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
 | 5    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Link](https://pan.baidu.com/s/1TOFhB5uB9sRuuzvkLcLobQ) | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
+| :fire: 6    | DUTLF-MV | 2021 | Arxiv | 4204  |  |  ✓    |    ✓  |    ✓  |✓  |✓  |✓  |  | [Link](https://github.com/OIPLab-DUT/DUTLF-V2)     |
 
 # Benchmarking Results
 
