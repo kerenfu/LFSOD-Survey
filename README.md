@@ -133,7 +133,7 @@ Fig. 2 PR curves on four datasets ((a) LFSD, (b) HFUT, (c) Lytro Illum, and (d) 
 
 ## <span id = "saliency-download">All Models' Saliency Maps</span>
 
-All models' saliency maps generated and used for our evaluation table are now publicly available at [Link](https://pan.baidu.com/s/1sj79KoD5vgqVjkuGb4PQAg) (code: lfso).
+All models' saliency maps generated and used for our evaluation table are now publicly available at [Link](https://pan.baidu.com/s/1_eEdBGCRrrTZHY2oG4S1vg) (code: lfso).
 
 ## Qualitative Comparison
 
