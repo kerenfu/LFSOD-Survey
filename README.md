@@ -75,7 +75,8 @@ Table II: Overview of deep learning-based LFSOD models.
 | 5    | 2020 | LFNet  | TIP    | LFNet: Light Field Fusion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9082882)/Project |
 | 6    | 2020 | MAC    | TIP    | Light Field Saliency Detection with Deep Convolutional Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 | 7    | 2020 | MTCNet   | TCSVT    | A Multi-Task Collaborative Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9153018)/Project |
-| :fire: 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
+| 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
+| :fire: 9    | 2021 |    | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | Paper/Project |
 
 ## Other Review Works
 
