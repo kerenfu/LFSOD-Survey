@@ -8,6 +8,7 @@
 * [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#saliency-download)]
 * [2021/3/6] Add a new light field dataset [[Jump](#light-field-sod-datasets)] as well as a light field salient object detection work [[Jump](#deep-learning\-based-models)].
 * [2021/7/22] Update: Supplement and improve the discussion in review and open direction sections. Benchmark models with normalized (max-min normalization) depth maps and update saliency results [[Jump](#saliency-download)]. Add one traditional model and one deep learning-based model for comparison in our benchmark. Add an experiment retraining one light field SOD model and seven RGB-D SOD models to eliminate training discrepancy [[Jump](#quantitative-comparison)]. The names of datasets are slightly changed.
+* [2021/8/6] Add a new light field salient object detection work [[Jump](#deep-learning\-based-models)]
 
 # Contents:
 
