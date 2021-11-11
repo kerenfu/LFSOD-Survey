@@ -11,7 +11,7 @@
 * [2021/8/6] Add a new light field salient object detection work [[Jump](#deep-learning\-based-models)]
 * [2021/10/3] The paper is accepted by Computational Visual Media journal (CVMJ)!
 * [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)]
-* 
+
 # Contents:
 
 1. [Light Field](#light-field)<br>
