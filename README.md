@@ -79,8 +79,8 @@ Table II: Overview of deep learning-based LFSOD models.
 | 6    | 2020 | MAC    | TIP    | Light Field Saliency Detection with Deep Convolutional Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 | 7    | 2020 | MTCNet   | TCSVT    | A Multi-Task Collaborative Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9153018)/Project |
 | 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
-| :fire: 9    | 2021 | OBGNet   | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | Paper/Project |
-| :fire: 10    | 2021 | DLGLRG   | ICCV   | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | Paper/Project |
+| :fire: 9    | 2021 | OBGNet   | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/10.1145/3474085.3475312)/[Project](https://github.com/Timsty1/OBGNet) |
+| :fire: 10    | 2021 | DLGLRG   | ICCV   | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Project](https://github.com/wangbo-zhao/2021ICCV-DLGLRG) |
 
 ## Other Review Works
 
