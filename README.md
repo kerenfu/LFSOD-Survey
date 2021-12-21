@@ -172,6 +172,7 @@ The formal journal citation is below:
 	title={Light Field Salient Object Detection: A Review and Benchmark},
 	author={Fu, Keren and Jiang, Yao and Ji, Ge-Peng and Zhou, Tao and Zhao, Qijun and Fan, Deng-Ping},
 	journal={Computational Visual Media},
-	year={2021},
+	volume={8},
+	year={2022},
 	publisher={Springer}
 	}
