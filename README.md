@@ -3,14 +3,15 @@
 
 # :fire:News!
 
-* [2020/12/6] Release the information of light field datasets. [[Jump](#light-field-sod-datasets)]
+* [2020/12/6] Release the information of light field datasets. [[Jump](#light-field-sod-datasets)].
 * [2021/1/21] Add more description notes for the evaluation table.
-* [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#saliency-download)]
+* [2021/1/23] Release all models' saliency maps in our evaluation table. [[Jump](#saliency-download)].
 * [2021/3/6] Add a new light field dataset [[Jump](#light-field-sod-datasets)] as well as a light field salient object detection work [[Jump](#deep-learning\-based-models)].
 * [2021/7/22] Update: Supplement and improve the discussion in review and open direction sections. Benchmark models with normalized (max-min normalization) depth maps and update saliency results [[Jump](#saliency-download)]. Add one traditional model (RDFD) and one deep learning-based model (LFNet) for comparison in our benchmark. Add an experiment retraining one light field SOD model and seven RGB-D SOD models to eliminate training discrepancy [[Jump](#quantitative-comparison)]. The names of datasets are slightly changed.
-* [2021/8/6] Add a new light field salient object detection work [[Jump](#deep-learning\-based-models)]
+* [2021/8/6] Add a new light field salient object detection work [[Jump](#deep-learning\-based-models)].
 * [2021/10/3] The paper is accepted by Computational Visual Media journal (CVMJ)!
-* [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)]
+* [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)].
+* [2022/3/22] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)] and a new dataset [[Jump](#light-field-sod-datasets)].
 
 # Contents:
 
@@ -79,8 +80,15 @@ Table II: Overview of deep learning-based LFSOD models.
 | 6    | 2020 | MAC    | TIP    | Light Field Saliency Detection with Deep Convolutional Networks | [Paper](https://arxiv.org/pdf/1906.08331.pdf)/[Project](https://github.com/pencilzhang/MAC-light-field-saliency-net) |
 | 7    | 2020 | MTCNet   | TCSVT    | A Multi-Task Collaborative Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9153018)/Project |
 | 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
-| :fire: 9    | 2021 | OBGNet   | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/10.1145/3474085.3475312)/[Project](https://github.com/Timsty1/OBGNet) |
-| :fire: 10    | 2021 | DLGLRG   | ICCV   | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Project](https://github.com/wangbo-zhao/2021ICCV-DLGLRG) |
+| 9    | 2021 | OBGNet   | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/10.1145/3474085.3475312)/[Project](https://github.com/Timsty1/OBGNet) |
+| 10   | 2021 | DLGLRG   | ICCV   | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Project](https://github.com/wangbo-zhao/2021ICCV-DLGLRG) |
+| :fire: 11    | 2021 | GAGNN   | IEEE TIP   | Geometry Auxiliary Salient Object Detection for Light Fields via Graph Neural Networks | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527158)/Project |
+| :fire: 12    | 2021 | SANet   | BMVC   | Learning Synergistic Attention for Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2104.13916)/[Project](https://github.com/PanoAsh/SA-Net) |
+| :fire: 13    | 2021 | TCFANet   | IEEE SPL   | Three-Stream Cross-Modal Feature Aggregation Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292968&tag=1)/Project |
+| :fire: 14    | 2021 | PANet   | IEEE TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9517032)/[Project](https://github.com/OIPLab-DUT/IEEE-TCYB-PANet) |
+| :fire: 15    | 2021 | MGANet   | ACM ICME   | Multi-Generator Adversarial Networks For Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/9456017)/Project |
+| :fire: 16    | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | Paper/[Project](https://github.com/jiangyao-scu/MEANet) |
+| :fire: 17    | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
 
 ## Other Review Works
 
@@ -102,7 +110,8 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | 3    | DUTLF-FS    | 2019 | ICCV     | 1462 | 0.05 |✓  |      |✓  |      |✓  |      | [Link](https://pan.baidu.com/s/1J-LXu9iM1BH0SVeyUXogIw) | [Link](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)   |
 | 4    | DUTLF-MV    | 2019 | IJCAI    | 1580 | 0.04 |      |✓  |      |      |✓  |      | [Link](https://pan.baidu.com/s/1GPsKVYgKsfjt4EG5pI0H1A) | [Link](https://github.com/OIPLab-DUT/IJCAI2019-Deep-Light-Field-Driven-Saliency-Detection-from-A-Single-View)     |
 | 5    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Link](https://pan.baidu.com/s/1TOFhB5uB9sRuuzvkLcLobQ) | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
-| :fire: 6    | DUTLF-V2 | 2021 | Arxiv | 4204  |  |  ✓    |    ✓  |    ✓  |✓  |✓  |✓  |  | [Link](https://github.com/OIPLab-DUT/DUTLF-V2)     |
+| 6    | DUTLF-V2 | 2021 | Arxiv | 4204  |  |  ✓    |    ✓  |    ✓  |✓  |✓  |✓  |  | [Link](https://github.com/OIPLab-DUT/DUTLF-V2)     |
+| :fire: 7    | CITYU-Lytro | 2021 | IEEE TIP | 817  |  |      |    ✓  |    ✓  |✓  |✓  |✓  |  |      |
 
 # Benchmarking Results
 
