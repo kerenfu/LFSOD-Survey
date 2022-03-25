@@ -87,7 +87,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 13    | 2021 | TCFANet   | IEEE SPL   | Three-Stream Cross-Modal Feature Aggregation Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292968&tag=1)/Project |
 | :fire: 14    | 2021 | PANet   | IEEE TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9517032)/[Project](https://github.com/OIPLab-DUT/IEEE-TCYB-PANet) |
 | :fire: 15    | 2021 | MGANet   | IEEE ICMEW   | Multi-Generator Adversarial Networks For Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/9456017)/Project |
-| :fire: 16    | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | Paper/[Project](https://github.com/jiangyao-scu/MEANet) |
+| :fire: 16    | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet) |
 | :fire: 17    | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
 
 ## Other Review Works
