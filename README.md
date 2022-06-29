@@ -168,6 +168,7 @@ three SOTA RGB-D based SOD models (i.e., [JLDCF](https://openaccess.thecvf.com/c
 
 # Citation
 Please cite our paper if you find the work useful: 
+
 	@article{Fu2021lightfieldSOD,
 	title={Light Field Salient Object Detection: A Review and Benchmark},
 	author={Fu, Keren and Jiang, Yao and Ji, Ge-Peng and Zhou, Tao and Zhao, Qijun and Fan, Deng-Ping},
