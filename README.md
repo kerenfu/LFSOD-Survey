@@ -82,14 +82,16 @@ Table II: Overview of deep learning-based LFSOD models.
 | 8    | 2021 | DUT-LFSaliency   | Arxiv    | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/Project |
 | 9    | 2021 | OBGNet   | ACM MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/10.1145/3474085.3475312)/[Project](https://github.com/Timsty1/OBGNet) |
 | 10   | 2021 | DLGLRG   | ICCV   | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Project](https://github.com/wangbo-zhao/2021ICCV-DLGLRG) |
-| :fire: 11    | 2021 | GAGNN   | IEEE TIP   | Geometry Auxiliary Salient Object Detection for Light Fields via Graph Neural Networks | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527158)/Project |
-| :fire: 12    | 2021 | SANet   | BMVC   | Learning Synergistic Attention for Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2104.13916)/[Project](https://github.com/PanoAsh/SA-Net) |
-| :fire: 13    | 2021 | TCFANet   | IEEE SPL   | Three-Stream Cross-Modal Feature Aggregation Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292968&tag=1)/Project |
-| :fire: 14    | 2021 | PANet   | IEEE TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9517032)/[Project](https://github.com/OIPLab-DUT/IEEE-TCYB-PANet) |
-| :fire: 15    | 2021 | MGANet   | IEEE ICMEW   | Multi-Generator Adversarial Networks For Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/9456017)/Project |
-| :fire: 16    | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet) |
-| :fire: 17    | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
-| :fire: 18    | 2022 | NoiseLF  | CVPR   | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Learning_From_Pixel-Level_Noisy_Label_A_New_Perspective_for_Light_CVPR_2022_paper.pdf)/[Project](https://github.com/OLobbCode/NoiseLF) |
+| 11   | 2021 | GAGNN   | IEEE TIP   | Geometry Auxiliary Salient Object Detection for Light Fields via Graph Neural Networks | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527158)/Project |
+| 12   | 2021 | SANet   | BMVC   | Learning Synergistic Attention for Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2104.13916)/[Project](https://github.com/PanoAsh/SA-Net) |
+| 13   | 2021 | TCFANet   | IEEE SPL   | Three-Stream Cross-Modal Feature Aggregation Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292968&tag=1)/Project |
+| 14   | 2021 | PANet   | IEEE TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9517032)/[Project](https://github.com/OIPLab-DUT/IEEE-TCYB-PANet) |
+|  15  | 2021 | MGANet   | IEEE ICMEW   | Multi-Generator Adversarial Networks For Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/9456017)/Project |
+|  16  | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet) |
+|  17  | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
+| 18   | 2022 | NoiseLF  | CVPR   | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Learning_From_Pixel-Level_Noisy_Label_A_New_Perspective_for_Light_CVPR_2022_paper.pdf)/[Project](https://github.com/OLobbCode/NoiseLF) |
+| :fire: 19    | 2022 | ARFNet  | IEEE Systems Journal   | ARFNet: Attention-Oriented Refinement and Fusion Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9763843)/Project |
+| :fire: 20    | 2022 | HEQNet  | Electronics   | High Edge-Quality Light-Field Salient Object Detection Using Convolutional Neural Network | [Paper](https://www.mdpi.com/2079-9292/11/7/1054)/Project |
 
 ## Other Review Works
 
