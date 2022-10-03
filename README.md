@@ -9,7 +9,7 @@
 * [2021/3/6] Add a new light field dataset [[Jump](#light-field-sod-datasets)] as well as a light field salient object detection work [[Jump](#deep-learning\-based-models)].
 * [2021/7/22] Update: Supplement and improve the discussion in review and open direction sections. Benchmark models with normalized (max-min normalization) depth maps and update saliency results [[Jump](#saliency-download)]. Add one traditional model (RDFD) and one deep learning-based model (LFNet) for comparison in our benchmark. Add an experiment retraining one light field SOD model and seven RGB-D SOD models to eliminate training discrepancy [[Jump](#quantitative-comparison)]. The names of datasets are slightly changed.
 * [2021/8/6] Add a new light field salient object detection work [[Jump](#deep-learning\-based-models)].
-* [2021/10/3] The paper is accepted by Computational Visual Media journal (CVMJ)! [[Jump to the formal journal version](https://link.springer.com/content/pdf/10.1007/s41095-021-0256-2.pdf)]
+* [2021/10/3] The paper is accepted by Computational Visual Media journal (CVMJ)! [[Jump to the formal journal version](https://link.springer.com/article/10.1007/s41095-021-0256-2)]
 * [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)].
 * [2022/3/22] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)] and a new dataset [[Jump](#light-field-sod-datasets)].
 
