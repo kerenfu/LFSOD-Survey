@@ -176,6 +176,8 @@ Please cite our paper if you find the work useful:
 	author={Fu, Keren and Jiang, Yao and Ji, Ge-Peng and Zhou, Tao and Zhao, Qijun and Fan, Deng-Ping},
 	journal={Computational Visual Media},
 	volume={8},
+	number={4},
+	pages={509--534},
 	year={2022},
 	publisher={Springer}
 	}
