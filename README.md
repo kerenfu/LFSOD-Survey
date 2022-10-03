@@ -1,4 +1,4 @@
- Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://arxiv.org/pdf/2010.04968.pdf)][[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)]
+ Light Field Salient Object Detection: A Review and Benchmark [[PDF](https://link.springer.com/content/pdf/10.1007/s41095-021-0256-2.pdf)][[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)]
 ===============================================================================================================
 
 # :fire:News!
