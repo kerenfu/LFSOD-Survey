@@ -92,6 +92,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | 18   | 2022 | NoiseLF  | CVPR   | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Learning_From_Pixel-Level_Noisy_Label_A_New_Perspective_for_Light_CVPR_2022_paper.pdf)/[Project](https://github.com/OLobbCode/NoiseLF) |
 | :fire: 19    | 2022 | ARFNet  | IEEE Systems Journal   | ARFNet: Attention-Oriented Refinement and Fusion Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9763843)/Project |
 | :fire: 20    | 2022 | HEQNet  | Electronics   | High Edge-Quality Light-Field Salient Object Detection Using Convolutional Neural Network | [Paper](https://www.mdpi.com/2079-9292/11/7/1054)/Project |
+| :fire: 21    | 2022 |  -- | TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
 
 ## Other Review Works
 
