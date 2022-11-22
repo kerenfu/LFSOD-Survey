@@ -91,7 +91,9 @@ Table II: Overview of deep learning-based LFSOD models.
 |  17  | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
 | 18   | 2022 | NoiseLF  | CVPR   | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Learning_From_Pixel-Level_Noisy_Label_A_New_Perspective_for_Light_CVPR_2022_paper.pdf)/[Project](https://github.com/OLobbCode/NoiseLF) |
 | :fire: 19    | 2022 | ARFNet  | IEEE Systems Journal   | ARFNet: Attention-Oriented Refinement and Fusion Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9763843)/Project |
-| :fire: 20    | 2022 |  -- | TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
+| :fire: 20    | 2022 |  -- | IEEE TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
+| :fire: 21    | 2022 | ESCNet  | IEEE TIP   | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion From a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273)/[Project](https://github.com/OIPLab-DUT/ESCNet) |
+| :fire: 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
 
 ## Other Review Works
 
