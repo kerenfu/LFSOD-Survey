@@ -95,6 +95,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 21    | 2022 | ESCNet  | IEEE TIP   | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion From a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273)/[Project](https://github.com/OIPLab-DUT/ESCNet) |
 | :fire: 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
 | :fire: 23    | 2023 |  TENet | IVC| TENet: Accurate light-field salient object detection with a transformer embedding network | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885622002244)/Project |
+| :fire: 24    | 2023 | -- | TPAMI| A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10012539)/[Project](https://openi.pcl.ac.cn/OpenDatasets) |
 
 
 ## Other Review Works
@@ -119,6 +120,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | 5    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Link](https://pan.baidu.com/s/1TOFhB5uB9sRuuzvkLcLobQ) | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 | 6    | DUTLF-V2 | 2021 | Arxiv | 4204  |  |  ✓    |    ✓  |    ✓  |✓  |✓  |✓  |  | [Link](https://github.com/OIPLab-DUT/DUTLF-V2)     |
 | :fire: 7    | CITYU-Lytro | 2021 | IEEE TIP | 817  |  |      |    ✓  |    ✓  |✓  |✓  |✓  |  |      |
+| :fire: 8    | PKU-LF | 2021 | TPAMI | 5000  | ✓  |      |    ✓  |    ✓  |✓  |✓  |✓  |  |   [Link](https://openi.pcl.ac.cn/OpenDatasets)   |
 
 # Benchmarking Results
 
