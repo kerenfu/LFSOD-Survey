@@ -120,7 +120,7 @@ Table IV: Overview of light field SOD datasets. About the abbreviations: MOP=Mul
 | 5    | Lytro Illum | 2020 | IEEE TIP | 640  | 0.15 |   ✔️   |    ✔️  |    ✔️  |✓  |✓  |✓  | [Link](https://pan.baidu.com/s/1TOFhB5uB9sRuuzvkLcLobQ) | [Link](https://github.com/pencilzhang/MAC-light-field-saliency-net)     |
 | 6    | DUTLF-V2 | 2021 | Arxiv | 4204  |  |  ✓    |    ✓  |    ✓  |✓  |✓  |✓  |  | [Link](https://github.com/OIPLab-DUT/DUTLF-V2)     |
 | :fire: 7    | CITYU-Lytro | 2021 | IEEE TIP | 817  |  |      |    ✓  |    ✓  |✓  |✓  |✓  |  |      |
-| :fire: 8    | PKU-LF | 2021 | TPAMI | 5000  | ✓  |      |    ✓  |    ✓  |✓  |✓  |✓  |  |   [Link](https://openi.pcl.ac.cn/OpenDatasets)   |
+| :fire: 8    | PKU-LF | 2021 | TPAMI | 5000  |   |   ✓   |    ✓  |    ✓  |✓  |✓  |✓  |  |   [Link](https://openi.pcl.ac.cn/OpenDatasets)   |
 
 # Benchmarking Results
 
