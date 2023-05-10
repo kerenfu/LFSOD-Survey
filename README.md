@@ -96,7 +96,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
 | :fire: 23    | 2023 |  TENet | IVC| TENet: Accurate light-field salient object detection with a transformer embedding network | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885622002244)/Project |
 | :fire: 24    | 2023 | -- | TPAMI| A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10012539)/[Project](https://openi.pcl.ac.cn/OpenDatasets) |
-| :fire: 25    | 2023 | -- | ICME| GUIDED FOCAL STACK REFINEMENT NETWORK FOR LIGHT FIELD SALIENT OBJECT DETECTION | Paper/Project |
+| :fire: 25    | 2023 | -- | ICME| GUIDED FOCAL STACK REFINEMENT NETWORK FOR LIGHT FIELD SALIENT OBJECT DETECTION | [Paper](https://arxiv.org/abs/2305.05260)/Project |
 | :fire: 26    | 2023 | -- | IEEE TMM| Fusion-Embedding Siamese Network for Light Field Salient Object Detection | Paper/Project |
 
 
