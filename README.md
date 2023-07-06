@@ -14,7 +14,7 @@
 * [2022/3/22] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)] and a new dataset [[Jump](#light-field-sod-datasets)].
 * [2023/6/1] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)].
 
-:running: **We will keep updating it!** :running:    
+:running: **We will keep updating state-of-the-art works!** :running:    
 --------------------------------------------------------------------------------------
 
 # Contents:
