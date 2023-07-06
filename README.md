@@ -12,6 +12,10 @@
 * [2021/10/3] The paper is accepted by Computational Visual Media journal (CVMJ)! [[Jump to the formal journal version](https://link.springer.com/article/10.1007/s41095-021-0256-2)]
 * [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)].
 * [2022/3/22] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)] and a new dataset [[Jump](#light-field-sod-datasets)].
+* [2023/6/1] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)].
+
+:running: **We will keep updating it!** :running:    
+--------------------------------------------------------------------------------------
 
 # Contents:
 
@@ -90,14 +94,15 @@ Table II: Overview of deep learning-based LFSOD models.
 |  16  | 2022 | MEANet   | Neurocomputing   | MEANet: Multi-Modal Edge-Aware Network for Light Field Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222003502)/[Project](https://github.com/jiangyao-scu/MEANet) |
 |  17  | 2022 | DGENet   | IVC   | Dual guidance enhanced network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885621002572?via%3Dihub)/Project |
 | 18   | 2022 | NoiseLF  | CVPR   | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Learning_From_Pixel-Level_Noisy_Label_A_New_Perspective_for_Light_CVPR_2022_paper.pdf)/[Project](https://github.com/OLobbCode/NoiseLF) |
-| :fire: 19    | 2022 | ARFNet  | IEEE Systems Journal   | ARFNet: Attention-Oriented Refinement and Fusion Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9763843)/Project |
-| :fire: 20    | 2022 |  -- | IEEE TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
-| :fire: 21    | 2022 | ESCNet  | IEEE TIP   | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion From a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273)/[Project](https://github.com/OIPLab-DUT/ESCNet) |
-| :fire: 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
+| 19    | 2022 | ARFNet  | IEEE Systems Journal   | ARFNet: Attention-Oriented Refinement and Fusion Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9763843)/Project |
+| 20    | 2022 |  -- | IEEE TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
+| 21    | 2022 | ESCNet  | IEEE TIP   | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion From a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273)/[Project](https://github.com/OIPLab-DUT/ESCNet) |
+| 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
 | :fire: 23    | 2023 |  TENet | IVC| TENet: Accurate light-field salient object detection with a transformer embedding network | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885622002244)/Project |
 | :fire: 24    | 2023 | -- | TPAMI| A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10012539)/[Project](https://openi.pcl.ac.cn/OpenDatasets) |
-| :fire: 25    | 2023 | -- | ICME| GUIDED FOCAL STACK REFINEMENT NETWORK FOR LIGHT FIELD SALIENT OBJECT DETECTION | [Paper](https://arxiv.org/abs/2305.05260)/[Project](https://github.com/Yboera/GFRNet) |
+| :fire: 25    | 2023 | -- | ICME| Guided Focal Stack Refinement Network For Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2305.05260)/[Project](https://github.com/Yboera/GFRNet) |
 | :fire: 26    | 2023 | -- | IEEE TMM| Fusion-Embedding Siamese Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10122696)/Project |
+| :fire: 27    | 2023 | -- | IEEE TCSVT|LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Project](https://github.com/liuzywen/LFTransNet)  |
 
 
 ## Other Review Works
