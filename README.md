@@ -103,7 +103,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 25    | 2023 | GFRNet | ICME| Guided Focal Stack Refinement Network For Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2305.05260)/[Project](https://github.com/Yboera/GFRNet) |
 | :fire: 26    | 2023 | -- | IEEE TMM| Fusion-Embedding Siamese Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10122696)/Project |
 | :fire: 27    | 2023 | LFTransNet | IEEE TCSVT|LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Project](https://github.com/liuzywen/LFTransNet)  |
-
+| :fire: 28    | 2023 | -- | IEEE TCSVT|Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper]([https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ](https://ieeexplore.ieee.org/document/10168184))/[Project]([https://github.com/liuzywen/LFTransNet](https://github.com/GilbertRC/LFSOD-CDINet))  |
 
 ## Other Review Works
 
