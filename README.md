@@ -98,7 +98,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | 20    | 2022 |  -- | IEEE TIP   | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/abstract/document/9900489)/Project |
 | 21    | 2022 | ESCNet  | IEEE TIP   | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion From a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273)/[Project](https://github.com/OIPLab-DUT/ESCNet) |
 | 22    | 2022 |  LFBCNet | ACM MM| LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548275)/Project |
-| :fire: 23    | 2023 |  TENet | IVC| TENet: Accurate light-field salient object detection with a transformer embedding network | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885622002244)/Project |
+| 23    | 2023 |  TENet | IVC| TENet: Accurate light-field salient object detection with a transformer embedding network | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885622002244)/Project |
 | :fire: 24    | 2023 | -- | TPAMI| A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10012539)/[Project](https://openi.pcl.ac.cn/OpenDatasets) |
 | :fire: 25    | 2023 | GFRNet | ICME| Guided Focal Stack Refinement Network For Light Field Salient Object Detection | [Paper](https://arxiv.org/abs/2305.05260)/[Project](https://github.com/Yboera/GFRNet) |
 | :fire: 26    | 2023 | FESNet | IEEE TMM| Fusion-Embedding Siamese Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10122696)/Project |
