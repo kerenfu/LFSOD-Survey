@@ -63,7 +63,7 @@ Table I: Overview of traditional LFSOD models.
 | 9    | 2018 | SGDC   | CVPR   | Salience Guided Depth Calibration for Perceptually Optimized  Compressive Light Field 3D Display | [Paper](https://ieeexplore.ieee.org/document/8578315/)/Project |
 | 10   | 2020 | RDFD   | MTAP   | Region-based depth feature descriptor for saliency detection  on light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project |
 | 11   | 2020 | DCA    | TIP    | Saliency Detection via Depth-Induced Cellular Automata on  Light Field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project |
-
+| 12   | 2023 | CDCA    | ENTROPY    | Exploring Focus and Depth-Induced Saliency Detection for Light Field | [Paper](https://www.mdpi.com/1099-4300/25/9/1336)/Project |
 ## Deep Learning-based Models
 
 ![alt text](./pictures/network.png)
