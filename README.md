@@ -20,7 +20,7 @@
 # Contents:
 
 1. [Light Field](#light-field)<br>
-  i. [Multi-view Images and Focal Stacks](#multi\-view-images-and-focal-stacks)<br>
+  i. [Multi-view Images and Focal Stacks](#multi\-view-images-and-focal-stacks)<br> 
 2. [Light Field SOD](#light-field-sod)<br>
   i. [Traditional Models](#traditional-models)<br>
   ii. [Deep Learning-based Models](#deep-learning\-based-models)<br>
