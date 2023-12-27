@@ -64,6 +64,8 @@ Table I: Overview of traditional LFSOD models.
 | 10   | 2020 | RDFD   | MTAP   | Region-based depth feature descriptor for saliency detection  on light field | [Paper](https://link.springer.com/article/10.1007%2Fs11042-020-08890-x)/Project |
 | 11   | 2020 | DCA    | TIP    | Saliency Detection via Depth-Induced Cellular Automata on  Light Field | [Paper](https://ieeexplore.ieee.org/document/8866752)/Project |
 | 12   | 2023 | CDCA    | ENTROPY    | Exploring Focus and Depth-Induced Saliency Detection for Light Field | [Paper](https://www.mdpi.com/1099-4300/25/9/1336)/Project |
+| 13   | 2023 | TFSF   | AO   | Two-way focal stack fusion for light field saliency detection | [Paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-62-34-9057&seq=0&html=true)/Project |
+
 ## Deep Learning-based Models
 
 ![alt text](./pictures/network.png)
