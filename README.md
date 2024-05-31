@@ -107,7 +107,7 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 27    | 2023 | LFTransNet | IEEE TCSVT|LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Project](https://github.com/liuzywen/LFTransNet)  |
 | :fire: 28    | 2023 | CDINet | IEEE TCSVT|Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Project](https://github.com/GilbertRC/LFSOD-CDINet)  |
 | :fire: 29    | 2024 | LF-Tracy| arXiv|LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras| [Paper](https://browse.arxiv.org/abs/2401.16712)/[Project](https://github.com/FeiBryantkit/LF-Tracy)  |
-| :fire: 30    | 2024 | PANet| IEEE SPL|Parallax-Aware Network for Light Field Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10461057)/Project |
+| :fire: 30    | 2024 | PANet| IEEE SPL|Parallax-Aware Network for Light Field Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10461057)/[Project](https://github.com/Yboera/PANet) |
 
 
 ## Other Review Works
