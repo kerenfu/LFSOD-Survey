@@ -105,10 +105,19 @@ Table II: Overview of deep learning-based LFSOD models.
 | 25    | 2023 | GFRNet | ICME| Guided Focal Stack Refinement Network For Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219904)/[Project](https://github.com/Yboera/GFRNet) |
 | 26    | 2023 | FESNet | IEEE TMM| Fusion-Embedding Siamese Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10122696)/Project |
 | 27    | 2023 | LFTransNet | IEEE TCSVT|LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Project](https://github.com/liuzywen/LFTransNet)  |
-| :fire: 28    | 2023 | CDINet | IEEE TCSVT|Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Project](https://github.com/GilbertRC/LFSOD-CDINet)  |
-| :fire: 29    | 2024 | LF-Tracy| arXiv|LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras| [Paper](https://browse.arxiv.org/abs/2401.16712)/[Project](https://github.com/FeiBryantkit/LF-Tracy)  |
-| :fire: 30    | 2024 | PANet| IEEE SPL|Parallax-Aware Network for Light Field Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10461057)/[Project](https://github.com/Yboera/PANet) |
-
+| 28    | 2023 | CDINet | IEEE TCSVT|Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Project](https://github.com/GilbertRC/LFSOD-CDINet)  |
+| 29    | 2024 | LF-Tracy| arXiv|LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras| [Paper](https://browse.arxiv.org/abs/2401.16712)/[Project](https://github.com/FeiBryantkit/LF-Tracy)  |
+| 30    | 2024 | PANet| IEEE SPL|Parallax-Aware Network for Light Field Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10461057)/[Project](https://github.com/Yboera/PANet) |
+| :fire: 31    | 2024 | --| Research|Masked Generative Light Field Prompting for Pixel-Level Structure Segmentations| [Paper](https://spj.science.org/doi/full/10.34133/research.0328)/Project |
+| :fire: 32    | 2024 | --| TVC|Light field salient object detection based on discrete viewpoint selection and multi-feature fusion| [Paper](https://link.springer.com/article/10.1007/s00371-024-03375-6)/Project |
+| :fire: 33    | 2024 | --| SPIC|A foreground-context dual-guided network for light-field salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0923596524000663)/Project |
+| :fire: 34    | 2024 | GMERNet | TOMM|Gated Multi-Modal Edge Refinement Network for Light Field Salient Object Detection| [Paper](https://dl.acm.org/doi/abs/10.1145/3674836)/Project |
+| :fire: 35    | 2024 | IRNet | TOMM|Rethinking Feature Mining for Light Field Salient Object Detection| [Paper](https://dl.acm.org/doi/abs/10.1145/3676967)/[Project](https://github.com/gbliao/IRNet) |
+| :fire: 36    | 2024 | FAENet | ICME|Focal Stack Alignment Enhancement Network For Light Field Salient Object Detection| [Paper](https://ieeexplore.ieee.org/abstract/document/10687985)/Project |
+| :fire: 37    | 2024 | -- | TCSVT|Spatial Attention-Guided Light Field Salient Object Detection Network with Implicit Neural Representation| [Paper](https://ieeexplore.ieee.org/abstract/document/10621671)/[Project](https://github.com/ldyorchid/LFSOD-Net) |
+| :fire: 38    | 2024 | FPT | PRCV|Focal Perception Transformer for Light Field Salient Object Detection| [Paper](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_1)/[Project](https://github.com/combofish/FPTNet) |
+| :fire: 39    | 2024 | LRNet | Scientific Reports|LRNet: lightweight attention-oriented residual fusion network for light field salient object detection| [Paper](https://www.nature.com/articles/s41598-024-76874-0)/Project |
+| :fire: 40    | 2024 | LFSamba | IEEE SPL|LFSamba: Marry SAM With Mamba for Light Field Salient Object Detectionn| [Paper](https://ieeexplore.ieee.org/abstract/document/10747120)/Project |
 
 ## Other Review Works
 
