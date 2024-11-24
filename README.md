@@ -13,6 +13,7 @@
 * [2021/11/11] The Chinese version of the paper is released! [[中文版](http://www.kerenfu.top/sources/2021cvmlfsurvey-cn.pdf)].
 * [2022/3/22] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)] and a new dataset [[Jump](#light-field-sod-datasets)].
 * [2023/6/1] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)].
+* [2024/11/24] Add several new light field salient object detection works [[Jump](#deep-learning\-based-models)].
 
 :running: **We will keep updating state-of-the-art works!** :running:    
 --------------------------------------------------------------------------------------
@@ -118,6 +119,8 @@ Table II: Overview of deep learning-based LFSOD models.
 | :fire: 38    | 2024 | FPT | PRCV|Focal Perception Transformer for Light Field Salient Object Detection| [Paper](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_1)/[Project](https://github.com/combofish/FPTNet) |
 | :fire: 39    | 2024 | LRNet | Scientific Reports|LRNet: lightweight attention-oriented residual fusion network for light field salient object detection| [Paper](https://www.nature.com/articles/s41598-024-76874-0)/Project |
 | :fire: 40    | 2024 | LFSamba | IEEE SPL|LFSamba: Marry SAM With Mamba for Light Field Salient Object Detectionn| [Paper](https://ieeexplore.ieee.org/abstract/document/10747120)/Project |
+| :fire: 41    | 2024 | TLFNet | TIP|Transformer-based Light Field Salient Object Detection and Its Application to Autofocus| [Paper](https://ieeexplore.ieee.org/document/10759590)/[Project](https://github.com/jiangyao-scu/TLFNet) |
+
 
 ## Other Review Works
 
